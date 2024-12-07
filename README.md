@@ -3,7 +3,8 @@ An Open source LLM based riddle generator.
 
 This project is a work in progress, with way more functionality planned for the future!
 
-![image](https://github.com/user-attachments/assets/65cd130d-0d9e-492f-a932-ca527b5d091f)
+![image](https://github.com/user-attachments/assets/aff01165-80cc-407f-9825-c0f17ab721e0)
+
 
 ![image](https://github.com/user-attachments/assets/e106faf6-6af1-4d86-b303-55a86924bec7)
 
